@@ -5,4 +5,3 @@ I am finally going to do this a lot more for many different kinds of projects.  
 
 This can also be used for other things, like understanding exactly what is happening with commits and branches.  This is starting to make more sense. I still need to practice as much as possible to get all this terminology down, that is, stuff I should have learned probably a long time ago.  
 
-I have to review this frequently and really know what branches and merging and pull requests really mean and how to do them.  
